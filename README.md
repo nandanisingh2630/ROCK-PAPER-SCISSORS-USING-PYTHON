@@ -1,4 +1,4 @@
-**Rock Paper Scissors Game with Home Screen – Detailed Description**
+**Rock Paper Scissors Game with Home Screen**
 
 This project is a **Rock Paper Scissors Game** developed using Python with the **Tkinter GUI library** and **PIL (Python Imaging Library)** for handling images. The application begins with a **Home Screen** that welcomes the user and provides a **Start Game** button. When the user clicks the Start Game button, the home screen closes and the main game window opens.
 
